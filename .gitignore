@@ -20,3 +20,4 @@ ffmpeg
 *.bak
 *~
 *.goutput*
+.venv/
